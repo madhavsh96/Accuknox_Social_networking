@@ -16,7 +16,7 @@
 
 - Python (>= 3.6)
 - Django (>= 3.x)
-- PostgreSQL (>= 9.x)
+- PostgreSQL (>= 15.x)
 - Docker (optional, for development)
 
 ## Getting Started
