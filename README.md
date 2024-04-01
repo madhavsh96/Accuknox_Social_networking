@@ -46,6 +46,11 @@
     ```bash
     python manage.py migrate
     ```
+4. Create table for cache:
+
+    ```bash
+    python manage.py createcachetable
+    ```
 
 5. Create super user (which will act as admin):
 
